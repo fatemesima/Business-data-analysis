@@ -35,9 +35,3 @@
 5. Run the notebook cell-by-cell. Use `joblib` to save final model artifacts if needed.
 
 
-## Recommendations
-- In README include a short executive summary with top 3 actionable recommendations (e.g., target month-to-month customers with retention promos, improve experience for Fiber Optic customers, follow up for Electronic Check payers).
-
-
-## License
-Add your preferred license.
