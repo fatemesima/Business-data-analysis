@@ -24,7 +24,7 @@
 
 
 ## Explainability
-- SHAP is used to explain the XGBoost base learner (SHAP summary plot included in `reports/images`).
+- SHAP is used to explain the XGBoost base learner (SHAP summary plot included in `images/Capture3.JPG`).
 
 
 ## How to run (quick)
